@@ -98,16 +98,19 @@ div ul li a:hover {
 .imageOne {
   margin-left: -151px;
   margin-top: -100px;
+  position: absolute;
 }
 
 .imageTwo {
   margin-left: -151px;
   margin-top: -100px;
+  position: absolute;
 }
 
 .imageThree {
   margin-left: -151px;
   margin-top: -100px;
+  position: absolute;
 }
 
 .header {
@@ -159,10 +162,6 @@ div ul li a:hover {
 
 .facebook {
   margin-top: 0px;
-}
-
-.twitter {
-
 }
 
 .linkedin {
